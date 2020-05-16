@@ -1,3 +1,5 @@
-这是xxxx个文件，我刚刚创建的
+git测试练习
+这我学习git，角色git很有意思
+
 
 merge content
